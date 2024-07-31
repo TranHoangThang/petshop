@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\editemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:editemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\editemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:editemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\stafflist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:stafflist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\stafflist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:stafflist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|d:\\cuoikiwinform\\qlpet\\winformsapp_ql\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\introduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E8F01E-F353-42C2-B238-49CA6FEA51B5}|WinFormsApp_QL.csproj|solutionrelative:introduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditEmployeeForm.cs",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\EditEmployeeForm.cs",
+              "RelativeDocumentMoniker": "EditEmployeeForm.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\EditEmployeeForm.cs",
+              "RelativeToolTip": "EditEmployeeForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:05:42.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditEmployeeForm.cs [Design]",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\EditEmployeeForm.cs",
+              "RelativeDocumentMoniker": "EditEmployeeForm.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\EditEmployeeForm.cs [Design]",
+              "RelativeToolTip": "EditEmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:05:39.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffList.cs",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\StaffList.cs",
+              "RelativeDocumentMoniker": "StaffList.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\StaffList.cs",
+              "RelativeToolTip": "StaffList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:05:29.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffList.cs [Design]",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\StaffList.cs",
+              "RelativeDocumentMoniker": "StaffList.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\StaffList.cs [Design]",
+              "RelativeToolTip": "StaffList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:05:26.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:05:16.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs [Design]",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Transaction.cs [Design]",
+              "RelativeToolTip": "Transaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:05:13.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Billing.cs",
+              "RelativeDocumentMoniker": "Billing.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Billing.cs",
+              "RelativeToolTip": "Billing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:05:02.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Billing.cs [Design]",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Billing.cs",
+              "RelativeDocumentMoniker": "Billing.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Billing.cs [Design]",
+              "RelativeToolTip": "Billing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:04:58.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:04:43.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventory.cs [Design]",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Inventory.cs [Design]",
+              "RelativeToolTip": "Inventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:04:40.225Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesReport.cs",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\SalesReport.cs",
+              "RelativeDocumentMoniker": "SalesReport.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\SalesReport.cs",
+              "RelativeToolTip": "SalesReport.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:04:04.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesReport.cs [Design]",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\SalesReport.cs",
+              "RelativeDocumentMoniker": "SalesReport.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\SalesReport.cs [Design]",
+              "RelativeToolTip": "SalesReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:03:58.473Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Pet.cs",
+              "RelativeDocumentMoniker": "Pet.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Pet.cs",
+              "RelativeToolTip": "Pet.cs",
+              "ViewState": "AQIAABcBAAAAAAAAAAA1wCMBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:03:39.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pet.cs [Design]",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Pet.cs",
+              "RelativeDocumentMoniker": "Pet.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Pet.cs [Design]",
+              "RelativeToolTip": "Pet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:03:36.588Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAAwB8BAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:03:16.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Customer.cs [Design]",
+              "RelativeToolTip": "Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:03:13.196Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAA0BAAAAAAAAAAAAwCEBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:02:53.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Employee.cs [Design]",
+              "RelativeToolTip": "Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:02:50.818Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAswIYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:00:09.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:00:05.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Introduction.cs [Design]",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Introduction.cs",
+              "RelativeDocumentMoniker": "Introduction.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n \u1EE9ng d\u1EE5ng_T2 S\u00E1ng_WinForm_2024\\Test\\Petshop\\QLPet\\WinFormsApp_QL\\Introduction.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\L\u1EADp tr\u00ECnh giao di\u1EC7n \u1EE9ng d\u1EE5ng_T2 S\u00E1ng_WinForm_2024\\Test\\Petshop\\QLPet\\WinFormsApp_QL\\Introduction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:32:24.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Member.cs [Design]",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\Member.cs",
+              "RelativeDocumentMoniker": "Member.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n \u1EE9ng d\u1EE5ng_T2 S\u00E1ng_WinForm_2024\\Test\\Petshop\\QLPet\\WinFormsApp_QL\\Member.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\L\u1EADp tr\u00ECnh giao di\u1EC7n \u1EE9ng d\u1EE5ng_T2 S\u00E1ng_WinForm_2024\\Test\\Petshop\\QLPet\\WinFormsApp_QL\\Member.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:32:18.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:09:30.195Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
