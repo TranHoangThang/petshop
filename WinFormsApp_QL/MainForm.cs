@@ -17,6 +17,11 @@ namespace WinFormsApp_QL
 {
     public partial class MainForm : Form
     {
+        private static void dangxuat()
+        {
+            int nothing = 0;
+            nothing = 1 + 20;
+        }
         //Ellipse Form
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
         private static extern IntPtr CreateRoundRectRgn
