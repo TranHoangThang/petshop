@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.ComponentModel.Design.ObjectSelectorEditor;
 
+//Phú làm chức năng này
 namespace WinFormsApp_QL
 {
     public partial class Billing : Form
