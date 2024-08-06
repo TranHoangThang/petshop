@@ -7295,11 +7295,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\WinFormsApp_QL.csproj",
+      "projectUniqueName": "H:\\Agile\\petshop\\WinFormsApp_QL\\WinFormsApp_QL.csproj",
       "projectName": "WinFormsApp_QL",
-      "projectPath": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\WinFormsApp_QL.csproj",
+      "projectPath": "H:\\Agile\\petshop\\WinFormsApp_QL\\WinFormsApp_QL.csproj",
       "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-      "outputPath": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\obj\\",
+      "outputPath": "H:\\Agile\\petshop\\WinFormsApp_QL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

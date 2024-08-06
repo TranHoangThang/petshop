@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a+9OFoelCkl7AHpruf7JWJsDcd90+v3k9TX0KDi/gJJup7LKD08w8SZjuOrWMQ0ssJGsOKcueOUQKdNzi8axVw==",
+  "dgSpecHash": "WCG3BpOUOl/L28W9XvvgVoshjKGNnHG2QGzGa6G5+yEk4Igj6HNxNH7bxwo1hjd1KwPEyIPw+ozhjvmgDhh/DQ==",
   "success": true,
-  "projectFilePath": "D:\\Cuoikiwinform\\QLPet\\WinFormsApp_QL\\WinFormsApp_QL.csproj",
+  "projectFilePath": "H:\\Agile\\petshop\\WinFormsApp_QL\\WinFormsApp_QL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hoang\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hoang\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,8 +1,8 @@
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
 using System.Xml.Linq;
 using Microsoft.Data.SqlClient;
 using static WinFormsApp_QL.Billing;
-
+// Phần code này đã được Thắng làm
 namespace WinFormsApp_QL
 {
     public partial class Inventory : Form
