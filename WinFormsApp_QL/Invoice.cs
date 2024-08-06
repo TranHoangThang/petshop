@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+// Thắng làm hóa đơn
 namespace WinFormsApp_QL
 {
     public partial class Invoice : Form
