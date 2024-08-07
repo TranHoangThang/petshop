@@ -9,6 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+//Hoàn thành chức năng thêm nhân viên mới
 namespace WinFormsApp_QL
 {
     public partial class EditEmployeeForm : Form
